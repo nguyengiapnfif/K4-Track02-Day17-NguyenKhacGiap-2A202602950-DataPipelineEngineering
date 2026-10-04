@@ -5,7 +5,7 @@ Phần phân tích tối đa một trang, không tính output ở phần 5.
 
 **Họ tên / MSSV:** Nguyễn Khắc Giáp / 2A202602950
 **Repo:** https://github.com/nguyengiapnfif/K4-Track02-Day17-NguyenKhacGiap-2A202602950-DataPipelineEngineering
-**Commit bài nộp:** ``
+**Commit bài nộp:** `a461fb1929dd9689003764e61a1287fba0f2e92d`
 **AI đã dùng và phạm vi hỗ trợ (hoặc không dùng):** GitHub Copilot hỗ trợ đọc code,
 phân tích lỗi, đề xuất và kiểm tra các thay đổi; người học review và chịu trách nhiệm
 về mã nguồn cũng như nội dung báo cáo.
